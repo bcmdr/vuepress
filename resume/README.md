@@ -40,7 +40,7 @@ sidebarDepth: 3
 - International Baccalaureate Graduate
 
 ## Additional Skills
-**Retail Operations**
+### Retail Operations
 - Inventory management with Product Zone, Flamesoft, SAP and Fiori
 - Report generation with Microsoft Excel
 - Systems troubleshooting with CGI support
