@@ -1,0 +1,6 @@
+{ 
+  "name": "Brett Commandeur VuePress",
+  "scripts": {
+    "build-docs": "vuepress build docs"
+  }
+}
