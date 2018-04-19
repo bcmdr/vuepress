@@ -9,6 +9,7 @@ module.exports = {
     sidebar: {
       '/blog/': [
         'vuepress',
+        'livejournal-prototype'
       ]
     }
   }
