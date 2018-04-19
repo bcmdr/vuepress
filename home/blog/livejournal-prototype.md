@@ -1,8 +1,6 @@
 # Live Journal Prototype. 
 
-Live journal uses markdown to organize pages within markdown files. 
-
-Markdown is for articles where live journal is for collections, etc. 
+Live journal uses markdown to organize topics within documents.  
 
 Let's see it in action.
 
@@ -18,8 +16,7 @@ What's cool is this could be expanded into an app (many years ahead of me). But 
 
 Its a means for hectic minds to capitalize on their production of ideas and capture as much as possible without fear of organization. It's about mastering and trusting some very rudimentary computing skills. Search. Notation. Let's compose a tweet
 
->> Twitter
-`I should just post all my manic episode writing on the internet and call it 'art'`
+>> twitter `I should just post all my manic episode writing on the internet and call it 'art'`
 
 >> sudo command etc
 
@@ -28,18 +25,17 @@ You could run commands right from your word processor.
 Let's break that down. Word. Processor. For what medium? Text. Not print. Text. I am a web artisan :P I am a device artisan. 
 
 
-
-# Music 
+## Music 
 - Post Malone
 - Learn all the lyrics and perform. 
 - search: post malone 
 
-# Book Idea
+## Book Idea
 
-# Todo List
+## Todo List
 - Publish this document as an exercise. 
 
-# Section - Html Article - Blog Post
+## Section - Html Article - Blog Post
 Let's rethink the organization of a document.
 
 ---
